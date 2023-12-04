@@ -1,0 +1,28 @@
+1. Programs on Operators, Arithmetic Promotion, Method Calling.
+    (1) Program on operators
+    (2) Program on Method calling
+2. Programs on Classes: String and Math.
+    (1) Program on Math Class
+    (2) Program on String class
+3. Write a program to demonstrate following Function concepts
+    (1) Program on Function overloading
+    (2) Program on Constructors
+4. Programs on Control Statements.
+    (1) Java program to find whether the given no. is positive or negative.
+    (2) Java Program to print weekdays according to integers from 1 to 7.
+5. Programs on dealing with Arrays.
+    (1) Java Program to Find Largest Element in an Array.
+    (2) Java Program to Print Even and Odd Elements in an Array.
+6. Write a Java program that illustrates the following
+    (1) Program on creation of simple package
+    (2) Program on accesing a package
+7. Programs on Inheritance and Polymorphism.
+    (1) Program on Inheritance
+    (2) Program on Polymorphism
+8. Programs on Exception Handling.
+9. Program on Java script client side scripting.
+10. Programs on Java script Operators, Comparisons, Statements, Loops, Events.
+      (1) Program on Operators in JavaScript
+      (2) Program on Comparison Operators in JavaScript
+      (3) Program on Events in JavaScript
+      (4) Program on Loops in JavaScript
